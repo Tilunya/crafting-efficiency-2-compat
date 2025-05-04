@@ -1,0 +1,15 @@
+{
+    "name": "crafting-efficiency-2-compat",
+    "version": "0.0.1",
+    "title": "Crafting Efficiency Compat",
+    "author": "Tilunya",
+    "homepage": "",
+    "factorio_version": "2.0",
+    "description": "Adds support of multiple mods for the mod \"Crafting Efficiency\"",
+    "dependencies": [
+      "base >= 2.0.0",
+      "crafting-efficiency-2 >= 0.2.8",
+      "? 5dim_resources"
+    ]
+  }
+  

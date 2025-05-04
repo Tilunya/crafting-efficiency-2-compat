@@ -1,0 +1,1 @@
+require("prototypes.expansions.5dim_resources")
